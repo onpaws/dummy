@@ -2,4 +2,4 @@
 Dummy app
 #############
 
-Intended for repro purposes 
+Intended for testing purposes 
